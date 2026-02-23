@@ -7,7 +7,7 @@
 
 Regulatory change management is one of the most costly and error-prone operational challenges in financial services. UK banks collectively spend billions annually ensuring compliance with evolving FCA, PRA, and Basel requirements — yet the core process remains largely manual: compliance analysts read dense regulatory publications, manually cross-reference internal policies, and circulate impact assessments via email and spreadsheets.
 
-**RegRadar** is a conceptual AI-powered product that transforms this process using Retrieval-Augmented Generation (RAG) to automatically ingest regulatory updates, map them to affected internal policies, and generate structured impact assessments for human review — reducing analyst time-to-triage by an estimated 70% while maintaining the audit trails required in regulated environments.
+**RegRadar** is a conceptual AI-powered product that transforms this process using Retrieval-Augmented Generation (RAG) to automatically ingest regulatory updates, map them to affected internal policies, and generate structured impact assessments for human review - reducing analyst time-to-triage by an estimated 70% while maintaining the audit trails required in regulated environments.
 
 ---
 
@@ -63,7 +63,7 @@ A 95% accurate model that cannot explain its reasoning is useless in a complianc
 
 This is a portfolio project created to demonstrate AI product management thinking in a regulated financial services context. It is based on real industry problems observed during a career in UK banking, informed by publicly available regulatory data and RegTech market research.
 
-**Author**: [Your Name]  
+**Author**: Lois Anum 
 **Background**: 5+ years Product Management in UK Financial Services | PRINCE2 Agile Certified | AI PM (Coursera) | Perplexity AI Fellow  
 **LinkedIn**: https://www.linkedin.com/in/loisanum/
 
